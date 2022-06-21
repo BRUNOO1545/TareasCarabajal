@@ -1,0 +1,15 @@
+.main-background {
+    background-color: black;
+}
+
+.main-title {
+    color: white;
+}
+
+.main-title input:hover {
+    color: #c22acc;
+}
+
+.login-form__input {
+    color: red;
+}
